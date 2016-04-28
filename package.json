@@ -34,8 +34,8 @@
     "flow-bin": "^0.23.0",
     "jsdom": "^8.4.0",
     "mocha": "^2.4.5",
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1"
+    "react": "0.14.3",
+    "react-dom": "0.14.3"
   },
   "repository": {
     "type": "git",
